@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<BackupToolConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Servidor>dev-note1</Servidor>
+  <Database>nati2</Database>
+  <UsarDiretorio>false</UsarDiretorio>
+  <Diretorio>C:\Users\clecio\Desktop\Server</Diretorio>
+</BackupToolConfig>

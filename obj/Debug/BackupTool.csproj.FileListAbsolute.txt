@@ -1,0 +1,13 @@
+c:\users\clecio\documents\visual studio 2015\Projects\BackupTool\BackupTool\bin\Debug\BackupTool.exe.config
+c:\users\clecio\documents\visual studio 2015\Projects\BackupTool\BackupTool\bin\Debug\BackupTool.exe
+c:\users\clecio\documents\visual studio 2015\Projects\BackupTool\BackupTool\bin\Debug\BackupTool.pdb
+c:\users\clecio\documents\visual studio 2015\Projects\BackupTool\BackupTool\bin\Debug\MetroFramework.Design.dll
+c:\users\clecio\documents\visual studio 2015\Projects\BackupTool\BackupTool\bin\Debug\MetroFramework.dll
+c:\users\clecio\documents\visual studio 2015\Projects\BackupTool\BackupTool\bin\Debug\MetroFramework.Fonts.dll
+c:\users\clecio\documents\visual studio 2015\Projects\BackupTool\BackupTool\obj\Debug\BackupTool.csprojResolveAssemblyReference.cache
+c:\users\clecio\documents\visual studio 2015\Projects\BackupTool\BackupTool\obj\Debug\BackupTool.Properties.Resources.resources
+c:\users\clecio\documents\visual studio 2015\Projects\BackupTool\BackupTool\obj\Debug\BackupTool.csproj.GenerateResource.Cache
+c:\users\clecio\documents\visual studio 2015\Projects\BackupTool\BackupTool\obj\Debug\BackupTool.exe
+c:\users\clecio\documents\visual studio 2015\Projects\BackupTool\BackupTool\obj\Debug\BackupTool.pdb
+C:\Users\clecio\Documents\Visual Studio 2015\Projects\BackupTool\BackupTool\obj\Debug\BackupTool.Form2.resources
+C:\Users\clecio\Documents\Visual Studio 2015\Projects\BackupTool\BackupTool\obj\Debug\BackupTool.UiMain.resources
